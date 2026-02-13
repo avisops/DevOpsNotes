@@ -1,3 +1,7 @@
 Der, Die und Das sind Definite Artikle
 Jeden noun begint mit definte article
+Der stuhl die stühle
+Der Laptop Die Laptoppen
+Der Kuhl Die Kulies
+Das Handy Die Handys
 
