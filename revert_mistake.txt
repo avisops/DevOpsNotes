@@ -3,4 +3,5 @@ Alle --> Niemand
 Immer --> Nie
 Noch --> Keinen... Mehr / Nicht.... Mehr
 Mit --> Ohne
+Immer --> Nie
 
