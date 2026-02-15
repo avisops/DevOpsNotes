@@ -1,5 +1,6 @@
 Alles --> Nichts
 Alle --> Niemand
 Immer --> Nie
-Noch --> Keinen... Mehr
-Noch --> Nicht.... Mehr
+Noch --> Keinen... Mehr / Nicht.... Mehr
+Mit --> Ohne
+
